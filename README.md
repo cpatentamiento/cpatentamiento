@@ -1,4 +1,6 @@
 ## Hi there 👋
+Esta es la cuenta oficial del cpatentamiento que forma parte de la comunidad IPN
+📫 How to reach me: cpatentamiento@ipn.mx - 🔭 I’m currently working on PImatina 
 
 <!--
 **cpatentamiento/cpatentamiento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
